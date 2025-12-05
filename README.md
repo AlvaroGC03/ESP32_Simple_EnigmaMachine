@@ -1,10 +1,11 @@
 ﻿# ESP32_Simple_EnigmaMachine
 
 Hecho por: 
-Josue Javier Jurado Cano
-Vanessa Rodriguez Victorica
-Alexis Geovanni Sanchez Hernandez
-Alvaro Guzman Cabrera
-Christian Moises De Alba Velarde
-Fatima Jacqueline Romo Lopez
-Karla Yovana Murguía García
+Josue Javier Jurado Cano <br>
+Vanessa Rodriguez Victorica <br>
+Alexis Geovanni Sanchez Hernandez <br>
+Alvaro Guzman Cabrera <br>
+Christian Moises De Alba Velarde <br>
+Fatima Jacqueline Romo Lopez <br>
+Karla Yovana Murguía García <br>
+
